@@ -1,2 +1,2 @@
 # PlaywrightTJS
-Platywright TypeScript Initial commit later commit  Java Script
+Playwright TypeScript Initial commit later commit  Java Script
